@@ -1,0 +1,2424 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aegaeus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-16 01:06+0100\n"
+"PO-Revision-Date: 2013-01-10 08:47+0100\n"
+"Last-Translator: JL Convard <jeanlouis.convard@boostperf.net>\n"
+"Language-Team: HB-Themes <support@hb-themes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"Language: en\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\themes"
+"\\AegaeusWP\n"
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/404.php:24
+msgid "Search the website"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/archive.php:50
+msgid "No Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:21
+msgid "There are no comments so far"
+msgstr "Il n'y a pas encore de commentaires"
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:21
+msgid "There is 1 comment so far"
+msgstr "Il ya 1 commentaire pour l'instant"
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:21
+#, php-format
+msgid "There are % comments so far"
+msgstr "Il y a % commentaires pour l'instant"
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:46
+msgid "Leave a Comment"
+msgstr "Laisser un commentaire"
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:46
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr "Laisser un commentaire à %s"
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:62
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:62
+msgid "Log out of this account"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:67
+msgid "Name"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:67
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:71
+msgid "*"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:71
+msgid "Email"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:75
+msgid "Website"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:83
+msgid "Don't worry. We never use your email for spam."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:87
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:115
+msgid "Author"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/comments.php:126
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/footer.php:29
+msgid "Default Sidebar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions.php:93
+msgid "Main Menu"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions.php:94
+msgid "Footer Menu"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions.php:230
+msgid "Insert into Post"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions.php:230
+msgid "Insert Image"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:26
+msgid "Latest 30 Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:43
+msgid "Archives by Month"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:48
+msgid "Archives by Year"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:55
+msgid "Browse by Format"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:57
+msgid "Aside Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:58
+msgid "Link Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:59
+msgid "Video Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:60
+msgid "Gallery Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:63
+msgid "Browse by Categories"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:79
+msgid "Tags"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-archive.php:94
+msgid "Pages"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-contact.php:23
+msgid "none"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-redirect.php:38
+msgid "You will be redirected to "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-redirect.php:40
+msgid " in "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-redirect.php:42
+msgid " seconds. "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-sitemap.php:48
+msgid "Blog Categories"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-sitemap.php:64
+msgid "Portfolio Categories"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-sitemap.php:86
+msgid "Feeds"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-sitemap.php:88
+msgid "Main RSS"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-sitemap.php:89
+msgid "Comments Feed"
+msgstr "RSS des commentaires"
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-team.php:33
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-team.php:35
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/single.php:9
+msgid "staff"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-testimonials.php:28
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/single.php:10
+msgid "testimonials"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/page-tour.php:20
+msgid "Right Tour"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/single-blog.php:20
+msgid "Tagged: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/single-blog.php:23
+msgid "View comments."
+msgstr "Voir les commentaires."
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/single-blog.php:44
+msgid "About the author"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/single.php:8
+msgid "flexslider"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/single.php:19
+msgid "portfolio"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/classes/class.options_machine.php:577
+msgid "Last Backup : "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/classes/class.options_machine.php:647
+msgid "Upload"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/front-end/options.php:42
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/front-end/options.php:67
+msgid "Options Reset"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:130
+msgid "Dashboard"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:133
+msgid "Dashboard Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:136
+msgid "Hey there <strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:136
+msgid ""
+".</strong><br/><br/>Welcome to <strong>Aegaeus Dashboard.</strong><br/><br/"
+">* Aegaeus Theme version <strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:136
+msgid "</strong> *<br/>* WordPress version <strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:136
+msgid ""
+"</strong> *<br/><br/>This is your theme dashboard. You can do some quick "
+"actions here, like setting your front page, menus or widgets, reading the "
+"documentation or contacting the authors.<br/><br/>Use <strong>Options Reset</"
+"strong> button to <strong>restore</strong> all options to default and "
+"<strong>Save All Changes</strong> to <strong>save</strong> the options that "
+"you have entered in each section<br/><br/><strong>TIP :</strong> Watch out "
+"for blue notifications like this one, at the top of the options pages, it "
+"can really help you understanding the settings and guiding you through the "
+"documentation sections."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:178
+msgid "General Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:181
+msgid "General Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:184
+msgid ""
+"This is the <strong>General Settings</strong> section.<br/><br/>It controls "
+"some of the most basic configuration settings for your site: enabling "
+"responsiveness, the like plugin, settings for archive/search pages, contact "
+"form success/error lines etc. <br/><br/><strong>TIP :</strong> You can find "
+"more information about the General section in the <a href=\"http://"
+"documentation.hb-themes.com/aegaeus/#generalSettings\" target=\"_blank"
+"\">theme documentation file.</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:190
+msgid "Enable / Disable Responsiveness"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:191
+msgid "Check this box if you want the theme to be responsive."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:198
+msgid "Enable / Disable Like Plugin"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:199
+msgid "Check this box if you want to enable the like plugin."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:206
+msgid "Enable / Disable Search in Breadcrumbs"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:207
+msgid "Check this box if you want to enable the search box in breadcrumbs."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:214
+msgid "All Projects Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:215
+msgid ""
+"Enter a portfolio page permalink here which will lead to your portfolio page "
+"from every single portfolio. (The page containing your portfolio items)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:222
+msgid "Commenr Form Respond Line"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:223
+msgid "Enter a line of text which goes above the contact form."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:230
+msgid "Contact Form Success Message"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:231
+msgid ""
+"Enter success message for your contact form. This message will be displayed "
+"if the form has been filled out correctly and the email has been sent."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:238
+msgid "Contact Form Error Message"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:239
+msgid ""
+"Enter error message for your contact form. This message will be displayed if "
+"the form hasn't been filled out properly."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:246
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:247
+msgid ""
+"Enter a position for the sidebar in page such as archive, category, search "
+"etc."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:254
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:255
+msgid "Enter your custom CSS code"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:262
+msgid "Header Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:265
+msgid "Logo Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:268
+msgid ""
+"This is the <strong>Logo Settings</strong> section.<br/><br/>Upload your "
+"logo image and resize it if needed. If you leave logo image field empty, "
+"site title from <strong>General Settings</strong> will be used as logo text."
+"<br/><br/>Also, you can upload your favicon and apple icon image here.<br/"
+"><br/><strong>TIP :</strong> If you leave width or height inputs empty, the "
+"logo image will not be resized. Actual image size will be used. Find more "
+"about Logo Settings in our <a href=\"http://documentation.hb-themes.com/"
+"aegaeus/#logoSettings\" target=\"_blank\">theme documentation</a>."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:274
+msgid "Site Logo"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:275
+msgid ""
+"Upload a logo for your site. If you do not upload an image, site title will "
+"be used as logo."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:283
+msgid ""
+"Write your site logo in HTML.<br/><small><strong>Always use single instead "
+"of double quotes</strong></small>."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:291
+msgid ""
+"<strong>Logo Width</strong>.<br/>If you do not enter any value, logo image "
+"will not be resized."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:299
+msgid ""
+"<strong>Logo Height</strong>.<br/>If you do not enter any value, logo image "
+"will not be resized."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:306
+msgid "Enable / Disable Tagline"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:307
+msgid "Check this box if you want to enable Tagline bellow logo."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:314
+msgid "Favicon, Apple Icon and Android Icon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:315
+msgid ""
+"<strong>Favicon : </strong> Upload a <a href=\"http://en.wikipedia.org/wiki/"
+"Favicon\" target=\"_blank\">Favicon</a> image."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:322
+msgid ""
+"<strong>Apple Icon : </strong> Upload an 144 x 144 <a href=\"http://"
+"mathiasbynens.be/notes/touch-icons\" target=\"_blank\">Apple Icon</a> image "
+"for high-resolution iPad 'Retina' displays."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:330
+msgid ""
+"<strong>Apple Icon : </strong> Upload an 114 x 114 <a href=\"http://"
+"mathiasbynens.be/notes/touch-icons\" target=\"_blank\">Apple Icon</a> image "
+"for high-resolution iPhone 'Retina' displays."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:338
+msgid ""
+"<strong>Apple Icon : </strong> Upload an 54 x 54 <a href=\"http://"
+"mathiasbynens.be/notes/touch-icons\" target=\"_blank\">Apple Icon</a> image "
+"for other displays."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:345
+msgid "Enable / Disable Site Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:346
+msgid "Check this box if you want to enable Site info box."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:353
+msgid "Site Info Content"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:354
+msgid "Enter your site info here."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:361
+msgid "SEO Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:364
+msgid "SEO Settings info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:367
+msgid ""
+"This is the <strong>SEO Settings</strong> section.<br/><br/>SEO is a "
+"technique which helps search engines find and rank your site higher than the "
+"millions of other sites in response to a search query.<br/><br/>In the "
+"fields bellow you specify metadata that will apply to <strong>those pages "
+"that do not have custom metadata</strong>. Don't forget that every page or "
+"post can have custom SEO metadata, but you have to check the option bellow. "
+"In case these fields are left empty, metatags will be set using WordPress."
+"<br/><br/><strong>TIP : </strong>You can find more about WordPress meta tags "
+"on <a href=\"http://codex.wordpress.org/Meta_Tags_in_WordPress\" target="
+"\"_blank\">Codex</a> and more about our SEO implementation in our <a href="
+"\"http://documentation.hb-themes.com/aegaeus/#seoSettings\" target=\"_blank"
+"\">theme documentation</a>."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:373
+msgid "Enable / Disable SEO"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:374
+msgid "Check this box if you want to enable your site custom SEO settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:381
+msgid "Default title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:382
+msgid "Enter your default title text."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:389
+msgid "Default Description"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:390
+msgid "Enter your default description text."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:397
+msgid "Default Keywords"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:398
+msgid ""
+"Enter your default keywords. <br/>Separate them using commas.<br/><br/"
+"><em>Example: HTML, CSS, XML, JavaScript</em>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:405
+msgid "Sidebar Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:409
+msgid "Sidebar Settings info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:412
+msgid ""
+"This is the <strong>Sidebar Settings</strong> section.<br/><br/>This section "
+"allows you to create unlimited number of sidebars simply by clicking the "
+"button <strong>Add New Sidebar</strong>.<br/><br/>You can open details on "
+"each sidebar by clicking the arrow at the top right corner of each sidebar "
+"title. Details allows you to rename each sidebar or to remove it. You can "
+"reorder sidebars by draging the titles.<br/><br/> Once you have created the "
+"desired number of sidebars, go to <strong>Appearance > Widgets</strong> to "
+"populate them with Widget items.<br/><br/><strong>TIP : </strong> Don't "
+"forget to click <strong>Save All Changes</strong> before you leave this "
+"section. More about sidebars in our <a href=\"http://documentation.hb-themes."
+"com/aegaeus/#sidebarSettings\" target=\"_blank\">theme documentation</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:418
+msgid "Sidebars"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:425
+msgid "Slider Manager"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:428
+msgid "Post Types Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:431
+msgid ""
+"This is the <strong>Slider Manager</strong> section.</br></br>Here you can "
+"create unlimited number of three different types of sliders.<br/><br/>You "
+"can open details on each slider by clicking the arrow at the top right "
+"corner of each slider title. Details allows you to change each sliders "
+"values, as well as removing the slider.<br/></br>Once you have created the "
+"sliders, you need to create <strong>Slides</strong>.</br></"
+"br><strong>Important : </strong>It's very important to read the "
+"documentation of this section in our <a href=\"http://documentation.hb-"
+"themes.com/aegaeus/#sliderManager\" target=\"_blank\">theme documentation</"
+"a>, you can also view video tutorials there. "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:436
+msgid "Flex Slider"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:443
+msgid "Footer Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:446
+msgid "Footer Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:449
+msgid ""
+"This is the <strong>Footer Settings</strong> section.<br/><br/>Here you can "
+"choose from a predefined list of 11 <strong>footer layouts</strong>. <br/"
+">Also you can enter a Footer Copyright line in this section. <br/><br/"
+"><strong>TIP :</strong> You can find more information about the Footer "
+"section in the <a href=\"http://documentation.hb-themes.com/aegaeus/"
+"#footerSettings\" target=\"_blank\">theme documentation file.</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:454
+msgid "Select Footer Layout"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:463
+msgid "Copyright Line"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:464
+msgid "Enter a line of text that goes on the footer bottom."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:470
+msgid "Social Links"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:474
+msgid "Social Links Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:477
+msgid ""
+"This is the <strong>Social Links</strong> section.<br/><br/>Here you can "
+"enter the links to your social networks which will be shown in page title "
+"box. Leave fields empty if you don't want to show that social network icon."
+"<br/><br/><strong>TIP :</strong> There's a RSS field at the bottom of this "
+"section. Have a look at <a href=\"http://codex.wordpress.org/WordPress_Feeds"
+"\" target=\"_blank\">Codex</a> for more info about RSS feeds. Find more "
+"about social links section in our <a href=\"http://documentation.hb-themes."
+"com/aegaeus/#socialLinks\" target=\"_blank\">theme documentation</a>. "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:483
+msgid "Facebook"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:484
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:492
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:500
+msgid "Link to your Facebook profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:491
+msgid "Twitter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:499
+msgid "Vimeo"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:507
+msgid "Delicious"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:508
+msgid "Link to your Delicious profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:515
+msgid "DeviantArt"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:516
+msgid "Link to your DeviantArt profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:523
+msgid "Dribbble"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:524
+msgid "Link to your Dribbble profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:531
+msgid "Flickr"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:532
+msgid "Link to your Flickr profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:539
+msgid "Google Plus"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:540
+msgid "Link to your Google Plus profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:547
+msgid "Digg"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:548
+msgid "Link to your Digg profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:555
+msgid "Pinterest"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:556
+msgid "Link to your Pinterest profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:563
+msgid "Reddit"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:564
+msgid "Link to your Reddit profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:571
+msgid "LastFM"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:572
+msgid "Link to your LastFM profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:579
+msgid "StumbleUpon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:580
+msgid "Link to your StumbleUpon profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:587
+msgid "RSS"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:588
+msgid "Link to your RSS profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:595
+msgid "Apple"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:596
+msgid "Link to your Apple profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:603
+msgid "Skype"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:604
+msgid "Link to your Skype profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:611
+msgid "YouTube"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:612
+msgid "Link to your YouTube profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:619
+msgid "Forrst"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:620
+msgid "Link to your Forrst profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:627
+msgid "GitHub"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:628
+msgid "Link to your GitHub profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:635
+msgid "LinkedIn"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:636
+msgid "Link to your LinkedIn profile."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:643
+msgid "Page 404"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:646
+msgid "404 Page Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:649
+msgid ""
+"This is the <strong>404 Page Settings</strong> section.<br/></br>This theme "
+"comes with customizable 404 page. Here you can specify some basic settings "
+"about your 404 page.<br/><br/><strong>TIP : </strong>You can view your 404 "
+"page <a href=\""
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:655
+msgid "404 Page Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:663
+msgid "404 Page Description"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:673
+msgid "Enable / Disable Search Form"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:674
+msgid ""
+"Check this box if you want to enable the search form including separator."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:681
+msgid "Search Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:682
+msgid "Enter a line which goes above the search form."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:689
+msgid "404 Separator Icon Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:690
+msgid "Text shown when hovering separator icon."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:697
+msgid "404 Separator Icon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:698
+msgid ""
+"You can choose between two types of separator icons. Find more about "
+"separator icons <a href=\"#\">here</a>."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:704
+msgid "Redirect Page"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:707
+msgid "Redirect Page Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:710
+msgid ""
+"This is the <strong>Redirect Page Settings</strong> section.<br/><br/>This "
+"theme comes with an unique redirect page template. Here you can define some "
+"basic settings about redirect page template.<br/><br/>More about this "
+"section in our <a href=\"http://documentation.hb-themes.com/aegaeus/"
+"#redirectPage\" target=\"_blank\">theme documentation file.</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:716
+msgid "Timer value"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:717
+msgid "Enter timer value in seconds for redirect page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:724
+msgid "Redirect page title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:725
+msgid "Enter title for redirect page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:732
+msgid "Redirect page description"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:733
+msgid "Enter description for redirect page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:740
+msgid "Redirect page icon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:741
+msgid "Enter icon for redirect page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:748
+msgid "Map Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:751
+msgid "Map Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:754
+msgid ""
+"This is the <strong>Map Settings</strong> section.<br/><br/>Choose whether "
+"you want a <strong>header dropdown</strong> containing a map on your "
+"website. Enter details for displaying the map, such as its embedded URL, "
+"check which elements to add to the map.<br/><br/>Add a box containing your "
+"<strong>basic contact</strong> info!<br/><br/><strong>TIP :</strong> You can "
+"find more information about the Map section in the <a href=\"http://"
+"documentation.hb-themes.com/aegaeus/#mapSettings\" target=\"_blank\">theme "
+"documentation file.</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:761
+msgid "Enable / Disable Gmap Header Dropdown"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:762
+msgid ""
+"Check this box if you want to enable the dropdown containing a Google Map"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:770
+msgid "URL"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:777
+msgid "Center Icon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:778
+msgid "Upload a 32x32 px icon to place in the center of the map (a pin icon)."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:784
+msgid "Enable / Disable Pan Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:785
+msgid "Check this box if you want to enable the Pan Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:792
+msgid "Enable / Disable Zoom Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:793
+msgid "Check this box if you want to enable the Zoom Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:800
+msgid "Use Small Zoom"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:801
+msgid ""
+"Check this box if you want use a small zoom panel ( shows only + and - sign )"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:808
+msgid "Enable / Disable Map Type Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:809
+msgid "Check this box if you want to enable the Map Type Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:815
+msgid "Enable / Disable Street View Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:816
+msgid "Check this box if you want to enable the Street View Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:822
+msgid "Enable / Disable Overview Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:823
+msgid "Check this box if you want to enable the Overview Control"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:829
+msgid "Enable / Disable Map Contact Info Box"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:830
+msgid "Check this box if you want to enable a box with your info over the map."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:837
+msgid "Map Box Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:838
+msgid "Enter map contact info box title."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:844
+msgid "Map Box Phone"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:845
+msgid "Enter map contact info box phone."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:851
+msgid "Map Box Fax"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:852
+msgid "Enter map contact info box fax."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:858
+msgid "Map Box Mail"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:859
+msgid "Enter map contact info box mail."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:865
+msgid "Map Box Website"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:866
+msgid "Enter map contact info box website."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:872
+msgid "Map Box Address"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:873
+msgid "Enter map contact info box address."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:881
+msgid "Font Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:884
+msgid "Font Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:887
+msgid ""
+"This is the <strong>Font Settings</strong> section.<br/><br/>Here you can "
+"select theme fonts, enter custom font-face CSS code and change font color."
+"<br/><br/>These are just small typography changes, for bigger changes we "
+"suggest <a href=\"http://adrian3.com/projects/wordpress-plugins/wordpress-"
+"google-fonts-plugin/\" target=\"_blank\">Google Web Fonts Plugin </a> for "
+"WordPress.<br/><br/><strong> TIP : </strong>Find about font section and "
+"embedding Google Web Fonts in our <a href=\"http://documentation.hb-themes."
+"com/aegaeus/#fontSettings\" target=\"_blank\">theme documentation file.</a>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:892
+msgid "Enable / Disable Custom Typography"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:893
+msgid "Check this box to enable custom typography."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:899
+msgid "Content Font"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:900
+msgid "Content main font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:906
+msgid "Navigation Font"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:907
+msgid "Navigation font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:913
+msgid "Widget Areas Font"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:914
+msgid "Widget Areas font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:920
+msgid "H1 Heading"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:921
+msgid "H1 font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:927
+msgid "H2 Heading"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:928
+msgid "H2 font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:934
+msgid "H3 Heading"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:935
+msgid "H3 font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:941
+msgid "H4 Heading"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:942
+msgid "H4 font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:948
+msgid "H5 Heading"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:949
+msgid "H5 font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:955
+msgid "H6 Heading"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:956
+msgid "H6 font settings."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:962
+msgid "Custom Font Import"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:963
+msgid "Import custom fonts here."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:969
+msgid "Style Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:972
+msgid "Theme Color"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:973
+msgid "Theme Color Focus is a color in hex format used for many elements."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:979
+msgid "Default Background Texture"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:988
+msgid "Default Background Image"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:995
+msgid "Backup Options"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:999
+msgid "Backup Settings Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:1002
+msgid ""
+"This is the <strong>Backup Options</strong> section.<br/><br/>Here you can "
+"backup or restore your theme options.<br/><br/>Click <strong>Backup Options</"
+"strong> to backup your current theme options values.<br/>Click "
+"<strong>Restore Options</strong> to restore theme options from your latest "
+"backup."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/admin/functions/functions.options.php:1007
+msgid "Backup Theme Options Values"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/blog-grid.php:162
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/blog-grid.php:168
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/blog-grid.php:172
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/blog-sidebar.php:90
+msgid "None"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/blog-sidebar.php:107
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/blog-sidebar.php:135
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/blog-sidebar.php:169
+msgid "Read more<span class=\"icon-chevron-right\"></span>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/blog-sidebar.php:207
+msgid "Posted by "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/breadcrumbs.php:117
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/breadcrumbs.php:122
+msgid "Portfolio"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/breadcrumbs.php:145
+msgid " Page "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/breadcrumbs.php:154
+msgid "Search and hit enter..."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/header-dropdown.php:108
+msgid "Phone: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/header-dropdown.php:110
+msgid "Fax: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/header-dropdown.php:112
+msgid "Mail: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/header-dropdown.php:114
+msgid "Website: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/header-dropdown.php:116
+msgid "Address: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:15
+msgid "Search Complete"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:16
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:49
+msgid "There are "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:16
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:49
+msgid " results found"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:20
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:22
+msgid "Archive for "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:24
+msgid "Posts Tagged &quot;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:24
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:26
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:32
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:34
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:36
+msgid "&quot"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:26
+msgid "Category &quot;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:29
+msgid "Posts by "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:32
+msgid "Portfolio Category &quot;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:34
+msgid "Portfolio Skill &quot;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/page-title.php:36
+msgid "Staff Deparment &quot;"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/portfolio-details.php:22
+msgid "Date:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/portfolio-details.php:28
+msgid "Client:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/portfolio-details.php:36
+msgid "Skills Used: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/portfolio-details.php:47
+msgid "Categories: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/portfolio-details.php:57
+msgid "Link: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/functions/portfolio-details.php:63
+msgid "Likes: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/contact-form.php:4
+msgid "* Name"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/contact-form.php:5
+msgid "* Email"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/contact-form.php:6
+msgid "* Subject"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/contact-form.php:10
+msgid "Submit Message"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:46
+msgid "Template Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:52
+msgid "Exclude From Blog"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:56
+msgid ""
+"Enter a list of comma separated categories to exclude from the blog page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:59
+msgid "Map Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:62
+msgid "Enter embedded google map link."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:65
+msgid "Portfolio Columns"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:70
+msgid "Select how many columns to show on portfolio page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:73
+msgid "Portfolio with Filter Page Description"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:77
+msgid ""
+"A line of text which describes a portfolio page. The line is located on the "
+"oposite side of the portfolio filter."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:80
+msgid "Portfolio with Filter Separator Icon"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:84
+msgid ""
+"Enter an icon to display on separator, when using Portfolio with Filter "
+"template."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:87
+msgid "Specify Portfolio Category"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:91
+msgid ""
+"Specify a portfolio category slug here. Portfolio items in these categories "
+"will be shown on the page.  <small><em>*Separate slugs with commas.</em></"
+"small> "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:94
+msgid "Tour Position"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:100
+msgid "Select a position for your tour. Choose between left and right."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:103
+msgid "Column Count"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:109
+msgid "Select number of column on your page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:112
+msgid "Staff Departments"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:115
+msgid ""
+"Specify which member sill display by entering the staff departments.<br/> "
+"<small>Note: Use deparment slugs, and separate them by commas.</small>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:118
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:230
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:607
+msgid "Background Image"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:121
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:233
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:610
+msgid "Attach background image."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:124
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:236
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:613
+msgid "Background Texture"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:127
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:239
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:616
+msgid "Add background texture."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:130
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:248
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:619
+msgid "Enable Page Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:133
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:251
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:622
+msgid "Check this box if you want to enable a custom Page Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:136
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:254
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:625
+msgid "Custom Page Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:139
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:257
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:628
+msgid "Enter custom page title."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:142
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:260
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:631
+msgid "Custom Page Description"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:145
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:263
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:634
+msgid "Enter custom page description."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:148
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:637
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:154
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:643
+msgid "Select a position for your sidebar. Choose between left and right."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:157
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:646
+msgid "Page Sidebar"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:161
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:650
+msgid "Choose a sidebar for your page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:164
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:242
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:653
+msgid "Breadcrumbs"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:167
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:245
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:656
+msgid "Check if you want to use breadcrumbs on this page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:170
+msgid "Redirect Page Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:173
+msgid "Enter the lin for your redirect page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:176
+msgid "Revolution Slider"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:179
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:668
+msgid "Enter Revolution slider alias here."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:186
+msgid "Choose a Flex slider from the dropdown list."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:198
+msgid "Custom Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:205
+msgid "Embedded Video Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:208
+msgid ""
+"Enter embedded link to a video which will be used instead of the featured "
+"image."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:211
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:590
+msgid "Select Slider"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:215
+msgid "Attach a Flex slider to single portfolio page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:218
+msgid "Enable Related Posts"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:221
+msgid "Check this box if you want to enable related posts."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:224
+msgid "Item Description Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:227
+msgid "Enter item description title."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:270
+msgid "Project Details"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:276
+msgid "Enable portfolio details"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:279
+msgid "Check this box if you want add project details box."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:282
+msgid "Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:285
+msgid "Enter project details title."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:288
+msgid "Date"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:291
+msgid "Enter project date here."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:294
+msgid "Client"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:297
+msgid "Enter project client here."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:300
+msgid "Skills Used"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:303
+msgid ""
+"Check this box if you want add skills used on this project (this uses the "
+"portfolio item filters)."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:306
+msgid "Categories"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:309
+msgid ""
+"Check this box if you want add categories of this project (this uses the "
+"portfolio item categories)."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:312
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:577
+msgid "Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:315
+msgid "Enter link to your project."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:318
+msgid "Likes"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:322
+msgid "Check this box if you want add how many likes your project has."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:325
+msgid "Other Projects"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:329
+msgid "Check this box if you want add link to previous and next project."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:339
+msgid "Extra Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:346
+msgid "Staff Member Position"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:349
+msgid "Position of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:356
+msgid "Social settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:365
+msgid "Link to Facebook profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:371
+msgid "Link to Delicious profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:377
+msgid "Link to DeviantArt profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:383
+msgid "Link to Dribbble profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:389
+msgid "Link to Flickr profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:392
+msgid "GooglePlus"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:395
+msgid "Link to GooglePlus profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:401
+msgid "Link to Digg profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:407
+msgid "Link to Pinterest profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:413
+msgid "Link to Reddit profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:419
+msgid "Link to LastFM profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:425
+msgid "Link to StumbleUpon profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:431
+msgid "Link to Twitter profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:437
+msgid "Link to RSS profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:443
+msgid "Link to Apple profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:449
+msgid "Link to Skype profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:455
+msgid "Link to YouTube profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:461
+msgid "Link to Forrst profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:464
+msgid "Github"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:467
+msgid "Link to Github profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:473
+msgid "Link to LinkedIn profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:479
+msgid "Link to Vimeo profile of your staff member."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:488
+msgid "Attach to Slider"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:494
+msgid "Instructions"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:497
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:504
+msgid ""
+"Add this slide to a slider from the list above. Note that you need to create "
+"at least one slider in our <strong>Slider Manager</strong> in <a href='"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:500
+msgid "Attach this slide to a slider from the list"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:511
+msgid "Slide Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:517
+msgid "Slide Image"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:520
+msgid "Attach image to this slide."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:523
+msgid "Slide Video"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:526
+msgid "Enter embedded link to a video."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:529
+msgid "Caption Text"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:532
+msgid "Add a caption to this slide"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:535
+msgid "Caption Link"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:538
+msgid "Add a link to your caption. (Optional)"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:547
+msgid "Testimonial Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:556
+msgid "Enter Testimonial's Author"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:559
+msgid "Author info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:562
+msgid "Enter Testimonial's Author Info"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:570
+msgid "Post Format Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:580
+msgid "Link for the <strong>link</strong> post format."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:584
+msgid "Embedded Video URL"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:587
+msgid "Enter embedded video link for the <strong>video</strong> post format."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:594
+msgid "Attach a Flex slider to <strong>gallery</strong> post format."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:601
+msgid "Single Post Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:659
+msgid "Enable About Author"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:662
+msgid "Check if you want to add about author on this page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:665
+msgid "Page Slider"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:676
+msgid "Custom SEO Settings"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:683
+msgid "Use Custom SEO"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:686
+msgid ""
+"Check this box if you want to use custom SEO setting bellow. Otherwise "
+"default settings will be used.<br/><strong>SEO checkbox in theme options "
+"needs to be checked.</strong>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:689
+msgid "SEO Title"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:692
+msgid "Enter custom page SEO title for this page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:695
+msgid "SEO Description"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:698
+msgid "Enter custom page SEO description for this page."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:701
+msgid "SEO Keywords"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-metabox-usage.php:704
+msgid ""
+"Enter custom page SEO keywords for this page. <small><em>&nbsp;&nbsp;"
+"*Separate keywords with commas.</em></small>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:12
+msgid "Staff"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:13
+msgid "All Staff Members"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:14
+msgid "Staff Member"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:15
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:16
+msgid "Add New Staff Member"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:17
+msgid "Edit Staff Member"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:18
+msgid "New Staff Member"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:19
+msgid "View Staff Member"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:20
+msgid "Search Fro Staff Member"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:21
+msgid "No Staff Members found"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:22
+msgid "No Staff Members found in Trash"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:48
+msgid "Testimonials"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:49
+msgid "All Testimonials"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:50
+msgid "Testimonial"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:51
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:52
+msgid "Add New Testimonial"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:53
+msgid "Edit Testimonial"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:54
+msgid "New Testimonial"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:55
+msgid "View Testimonial"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:56
+msgid "Search For Testimonials"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:57
+msgid "No Testimonials found"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:58
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:85
+msgid "All Portfolio Items"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:86
+msgid "Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:87
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:88
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:89
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:90
+msgid "New Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:91
+msgid "View Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:92
+msgid "Search For Portfolio Item"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:93
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:94
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:120
+msgid "Flex Slides"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:121
+msgid "All Flex Slides"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:122
+msgid "Flex Slide"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:123
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:124
+msgid "Add New Flex Slide"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:125
+msgid "Edit Flex Slide"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:126
+msgid "New Flex Slide"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:127
+msgid "View Flex Slide"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:128
+msgid "Search For Flex Slides"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:129
+msgid "No Flex Slides found"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-post-types.php:130
+msgid "No Flex Slides found in Trash"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-shortcodes.php:197
+msgid "Scroll to top"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-shortcodes.php:676
+msgid "Email address"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-shortcodes.php:678
+msgid "Subscribe"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:15
+msgid "Portfolio Filters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:16
+msgid "Portfolio Filter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:17
+msgid "Search Portfolio Filters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:18
+msgid "All Portfolio Filters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:19
+msgid "Parent Portfolio Filter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:20
+msgid "Parent Portfolio Filter:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:21
+msgid "Edit Portfolio Filter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:22
+msgid "Update Portfolio Filter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:23
+msgid "Add New Portfolio Filter"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:24
+msgid "New Portfolio Filter Name"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:25
+msgid "Choose from the most used portfolio filters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:32
+msgid "portfoliofilters"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:38
+msgid "Portfolio Category"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:39
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:40
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:41
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:42
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:43
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:44
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:45
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:46
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:47
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:54
+msgid "portfoliocat"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:60
+msgid "Staff Department"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:61
+msgid "Search Staff Departments"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:62
+msgid "All Staff Departments"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:63
+msgid "Parent Staff Department"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:64
+msgid "Parent Staff Department:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:65
+msgid "Edit Staff Department"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:66
+msgid "Update Staff Department"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:67
+msgid "Add New Staff Department"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:68
+msgid "New Staff Department Name"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:69
+msgid "Choose from the most used staff departments"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-taxonomies.php:76
+msgid "staffmember"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-widget-areas.php:13
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-widget-areas.php:36
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/theme-widget-areas.php:56
+msgid "This is an area for widgets."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/revslider/inc_php/revslider_widget.class.php:8
+msgid "Displays a revolution slider on the page"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/revslider/inc_php/revslider_widget.class.php:24
+msgid "No sliders found, Please create a slider"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:37
+msgid "A widget that displays your contact info."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:40
+msgid "Custom Contact Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:72
+msgid "Tel"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:73
+msgid "Fax"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:74
+msgid "Mail"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:75
+msgid "Web"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:76
+msgid "Add"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:131
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-infobox.php:114
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-portfolio.php:129
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-recent-posts.php:131
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-twitter.php:129
+msgid "Title:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:137
+msgid "Contact Content: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:143
+msgid "Contact Phone Number: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:149
+msgid "Contact Fax: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:155
+msgid "Contact Mail: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-contact.php:161
+msgid "Contact Website: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-dribbble.php:35
+msgid "A widget that displays your dribbble posts."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-dribbble.php:38
+msgid "Custom Dribble Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-flickr.php:35
+msgid "A widget that displays your flickr posts."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-flickr.php:38
+msgid "Custom Flickr Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-infobox.php:35
+msgid "A widget that displays an infobox."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-infobox.php:38
+msgid "Custom Infobox Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-infobox.php:120
+msgid "Infobox Content: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-infobox.php:126
+msgid "Infobox Color: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-infobox.php:138
+msgid "Is Closable: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-instagram.php:35
+msgid "A widget that displays your instagram posts."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-instagram.php:38
+msgid "Custom Instagram Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-pinterest.php:35
+msgid "A widget that displays your pinterest posts."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-pinterest.php:38
+msgid "Custom Pinterest Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-portfolio.php:35
+msgid "A widget that displays your portfolio posts."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-portfolio.php:38
+msgid "Custom Portfolio Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-portfolio.php:135
+msgid "From Category ( use slugs and separate them with commas ): "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-portfolio.php:141
+msgid "Portfolio Item Number: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-recent-posts.php:35
+msgid "A widget that displays your latest posts."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-recent-posts.php:38
+msgid "Custom Recent Posts Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-recent-posts.php:137
+msgid "Latest Post Count: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-recent-posts.php:143
+msgid ""
+"Latest Post From Category: <br/><small><strong>*Note: Use category slug</"
+"strong></small>"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-testimonial.php:37
+msgid "A widget that displays your a testimonial."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-testimonial.php:40
+msgid "Custom Testimonial Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-testimonial.php:132
+msgid "Widget Title:"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-twitter.php:37
+msgid "A widget that displays your twitter posts."
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-twitter.php:40
+msgid "Custom Twitter Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-twitter.php:135
+msgid "Twitter Username: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-twitter.php:141
+msgid "Twitter Item Number: "
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-video.php:35
+msgid "A widget that shows a video"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/includes/widgets/widget-video.php:38
+msgid "Custom Video Widget"
+msgstr ""
+
+#: C:\wamp\www\wordpress\wp-content\themes\AegaeusWP/mce/hbthemes-shortcodes-iframe.php:31
+msgid "Shortcode Generator"
+msgstr ""

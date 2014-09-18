@@ -1,0 +1,566 @@
+/*-----------------------------------------------------------------------------------
+
+	Theme Name: Cathy Merz Insurance
+	Theme URI: http://preview.hb-themes.com/?theme=Aegaeus
+	Description: Ultimate Responsive Business Theme.
+	Author: HB-Themes
+	Author URI: http://www.hb-themes.com
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+	Version: 1.2
+	
+	Developed and designed by Hristina Zlateska & Branko Conjic for HB-Themes.
+	All files, unless otherwise stated, are released under the GNU General Public License
+	version 3.0 (http://www.gnu.org/licenses/gpl-3.0.html)
+	
+
+-----------------------------------------------------------------------------------*/
+
+@import url(css/style.css) screen;
+
+body, input, textarea {
+	font: 16px/22px "Times", Georgia, serif;
+	background-color: #fafafa;
+	color: #656565;
+}
+
+#content-inner {
+	padding-top: 30px;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+	background-image: url(http://cathymerzinsurance.com/wp-content/themes/cathymerzinsurance/images/textures/background-white-noise-pinstripe.png);
+	background-repeat: repeat;
+	background-position: 0% 0%;
+	background-color: #fff;
+}
+
+#header {
+	padding-bottom: 20px;
+}
+
+#main-content-with-sidebar p,
+#fullwidth-wrapper p {
+	font-size: 16px;
+}
+
+.red {
+	color: #b31e18;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Times", Georgia, serif;
+	color: #404348;
+}
+
+h1 {
+	padding: 0 0 20px 0;
+	color: #b31e18;
+}
+
+h3 {
+	color: #FFF;
+	background: #b31e18;
+	line-height: normal;
+	margin-bottom: 12px;
+	padding: 8px 8px 8px 16px;
+	border-radius: 6px;
+}
+
+h4 {
+	letter-spacing: 1px;
+	line-height: 24px;
+	color: #776256;
+	font-size: 1.1em;
+}
+
+h4 a {
+	color: #776256;
+	text-decoration: none;
+}
+
+h4 a:hover {
+	color: #b31e18;
+	text-decoration: none;
+}
+
+.blog-excerpt h2 {
+	color: #fff;
+	padding: 6px 4px 4px 12px;
+	margin-bottom: 10px;
+	background-color: #b31e18;
+	font-size: 24px;
+	letter-spacing: 1px;
+	line-height: 30px;
+	width: 100%;
+	border-radius: 6px;
+	-webkit-border-radius: 6px;
+}
+
+.focus-slogan-text h1 {
+	font-family: "Times", Georgia, serif;
+	padding-bottom: 12px;
+	font-size: 36px;
+	line-height: 32px !important;
+	letter-spacing: 1px;
+	font-weight: bold;
+}
+
+.focus-slogan-text h4 {
+	color: #404348;
+	font-family: "Times", Georgia, serif;
+	text-transform: none;
+	font-weight: normal;
+	line-height: 20px;
+	letter-spacing: 1px;
+	font-size: 20px;
+}
+
+#nav li a:hover, #nav li.current-menu-item a, #nav li.sfHover a, #nav li.current-menu-ancestor > a, #bottom-line a:hover {
+	border-color: #776256;
+}
+
+.tabs_contents a, a h6 {
+	text-decoration: none;
+	border-bottom: 1px dashed #b31e18;
+}
+
+a, a h6 {
+	text-decoration: none;
+	color: #424242;
+	-webkit-transition: color .2s linear;
+	-moz-transition: color .2s linear;
+	-o-transition: color .2s linear;
+	-ms-transition: color .2s linear;
+	transition: color .2s linear;
+}
+
+.blog-excerpt a {
+	padding-bottom: 2px;
+	border-bottom: 1px dashed #b31e18;
+	color: #776256;
+}
+
+.blog-excerpt a:hover {
+	color: #b31e18;
+	background-color: #f0eeed;
+}
+
+/*.textwidget a, a h6 {
+	border-bottom: 1px dashed #b31e18;
+	padding-bottom: 1px;
+	color: #aeaeae;
+}*/
+
+.textwidget a:hover {
+	color: #b31e18;
+	background-color: #f0eeed;
+}
+
+.like-count a:hover, a.like-active {
+color: #b31e18 !important;
+}
+
+#bottom-line a {
+	color:  #bbb;
+	border-bottom: dotted 1px #b31e18;
+}
+
+.button {
+	margin-right: 10px;
+	margin-bottom: 0px;
+}
+
+.btn-xlarge {
+	height: 40px;
+	line-height: 40px;
+	padding: 0 20px;
+	font-size: 13px;
+}
+
+.btn-red {
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	cursor: pointer;
+	color: #fff !important;
+	text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.6) !important;
+	background-color: #b31e18 !important;
+	background: url(../images/gradient/g30.png) repeat-x top;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	letter-spacing: normal;
+	text-transform: uppercase;
+	-webkit-transition: all 0.2s ease-out;
+
+}
+
+.btn-red:hover {
+	background-color: #cb1d1d !important;
+	background: url(../images/gradient/g30.png) repeat-x top;
+	color: #FFF !important; 
+}
+
+.btn-orange {
+	background-color: #776256 !important;
+	color: #FFF !important;
+	font-family: arial, sans-serif;
+	font-weight: bold;
+	letter-spacing: normal;
+	text-transform: uppercase;
+}
+
+.btn-orange:hover {
+	background-color: #b31e18 !important;
+	color: #FFF !important;
+}
+
+.btn-green {
+	background-color: #776256;
+	color: #eee !important;
+}
+
+.btn-green:hover {
+	background-color: #b31e18;
+	color: #eee !important;
+}
+
+.print-tag {
+	color: #776256;
+}
+
+.print-tag a {
+	color: #999;
+}
+
+/*.print-tag a:hover {
+	color: #b31e18;
+	border-bottom: 1px dashed #b31e18;
+	padding-bottom: 1px;
+}*/
+
+.team-position {	
+	font-family: "Times", Georgia, serif;
+	color: #999;
+}
+
+#tagline, #site-info {
+	font-size: 12px;
+	line-height: 20px;
+	color: #999;
+	font-family: "Times", Georgia, serif;
+	margin-bottom: 0px;
+	font-weight: bold;
+	clear: both;
+}
+
+#main-navigation-wrapper {
+	border-top: solid 2px #776256;
+	border-bottom: solid 1px #ddd;
+	position: relative;
+	z-index: 9999;
+	background: #f6f6f5;
+	width: 990px;
+	margin-left: -30px;
+}
+
+#nav li a {
+	color: #767676;
+	font-weight: 700;
+	font-size: 12px;
+}
+
+#nav-wrap {
+	text-transform: uppercase;
+	font-family: "Times", Georgia, serif;
+	font-weight: bold;
+}
+
+#slider-section {
+	background-color: #f0eeed;
+	border-bottom: 1px solid #e2dddb;
+}
+
+#page-title {
+	padding-bottom: 30px;
+	border-bottom: 2px solid #d9d5d3;
+	width: 990px;
+	margin-left: -30px;
+	margin-top: 0px;
+}
+
+.separator-text {
+	font-family: "Times", Georgia, serif;
+	color: #404348;
+	font-size: 18px;
+	font-weight: bold;
+	top: -14px;
+	background-image: url(http://cathymerzinsurance.com/wp-content/themes/cathymerzinsurance/images/textures/background-white-noise-pinstripe.png);
+}
+
+.separator {
+	margin-top: 50px;
+	background-color: #e2dddb;
+	height: 2px;
+}
+
+.separator-icon {
+	background-color: none;
+	background-image: url(http://cathymerzinsurance.com/wp-content/themes/cathymerzinsurance/images/textures/background-white-noise-pinstripe.png);
+	color: #d9d5d3;
+}
+
+.separator-small {
+	height: 1px;
+	background-color: #e2dddb;
+
+}
+
+/*#main-sidebar {
+	background-color: none;
+	border-top: solid 4px #e9e9e9;
+}*/
+
+#sidebar-page-wrapper {
+	background-color: none;
+	background-image: url(http://cathymerzinsurance.com/wp-content/themes/cathymerzinsurance/images/textures/background-white-pinstripe-noise-990px.jpg);
+}
+
+#main-content-with-sidebar ul, ol {
+	font-size: 16px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+#main-content-with-sidebar li {
+	padding-bottom: 12px;
+}
+
+#main-content-with-sidebar ul {
+	font-size: 16px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	list-style-type: circle;
+}
+
+#fullwidth-wrapper ul, ol {
+	font-size: 14px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+#fullwidth-wrapper img {
+	padding: 6px;
+	border: 1px solid #e1e1e1;
+	margin-top: -2px;	
+}
+
+#fullwidth-wrapper img {
+	padding: 6px;
+	border: 1px solid #e1e1e1;
+	margin-top: -2px;	
+}
+
+#main-content-with-sidebar ol {
+	list-style-type: decimal;
+}
+
+#main-content-with-sidebar img {
+	padding: 6px;
+	border: 1px solid #e1e1e1;
+	margin-top: -4px;	
+}
+
+.blog-meta-info {
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	background-color: #f0eeed;
+	-webkit-box-shadow: 0px 1px 3px rgba(50, 50, 50, 0.7);
+	-moz-box-shadow: 0px 1px 3px rgba(50, 50, 50, 0.7);
+	box-shadow: 0px 1px 3px rgba(50, 50, 50, 0.7);
+}
+
+#main-inner-wrapper {
+	padding-bottom: 5px;
+}
+
+table {
+	border: 1px solid #e1e1e1;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+td.column-title {
+	font-size: 0.9em;
+	font-weight: bold;
+	text-transform: capitalize;
+	background: #e1e1e1;
+}
+
+td {
+	font-size: 0.8em;
+	border: 1px solid #e1e1e1;
+}
+
+.breadcrumb-wrapper a, .breadcrumb-wrapper span {
+	font-size: 13px;
+}
+
+.breadcrumb-inside {
+	color: #404348;
+}
+
+#map-contact-info .contact-widget strong {
+	color: #b31e18;	
+	text-transform: uppercase;
+}
+
+/*.callout-box-inner p {
+	max-width: 400px;
+}*/
+
+.callout-box-inner.clearfix a {
+	margin-top: 12px;	
+}
+
+.callout-box h2 {
+	padding-bottom: 5px;
+	font-size: 24px;
+	letter-spacing: 0px;
+	line-height: 30px;
+}
+
+.icon-check.icon-large {
+	margin
+}	
+
+#footer {
+	position: relative;
+	width: 990px;
+	background-image: url(http://cathymerzinsurance.com/wp-content/themes/cathymerzinsurance/images/textures/background-lighter-beige-pinstripe-noise.png);
+	background-repeat: repeat;
+	background-position: 0% 0%;
+	margin-left: -30px;
+	border-top: 5px solid #d9d5d3;
+	background-color: #e2dddb;
+}
+
+#footer .arrow-down {
+	top: -5px;
+	border-top: 20px solid #d9d5d3;
+	left: 30px;
+}
+
+#bottom-line {
+	margin-top: 0;
+	background: rgba(0, 0, 0, 0.6);
+	font-size: 11px;
+	color: #999;
+	-webkit-border-bottom-left-radius: 8px;
+	-moz-border-bottom-left-radius: 8px;
+	border-bottom-left-radius: 8px;
+	-webkit-border-bottom-right-radius: 8px;
+	-moz-border-bottom-right-radius: 8px;
+	border-bottom-right-radius: 8px;
+}
+
+.boxed-service {
+	padding: 35px 20px 0px 20px;
+	background: #fff;
+	border: 1px solid #fafafa;
+	border: 1px solid rgba(60, 60, 60, 0.1);
+	overflow-x: hidden;
+	position: relative;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+	-webkit-box-shadow: 0px 1px 2px rgba(50, 50, 50, 0.7);
+	-moz-box-shadow: 0px 1px 2px rgba(50, 50, 50, 0.7);
+	box-shadow: 0px 1px 2px rgba(50, 50, 50, 0.7);
+}
+
+.callout-box {
+	border-left: solid 3px #b31e18;
+	background-color: #f0eeed;
+}
+ 
+.pricing-table {
+        margin-top: 10px;
+        margin-bottom: 0px;
+}
+
+.plan-item-header {
+        color: #776256;
+}
+
+.plan-item-button {
+       padding: 20px 0 40px 0;
+}
+
+.plan-item-button a {
+       padding: 15px 40px;
+       background-color: #b31e18;
+       color: #FFF;
+       font-size: 16px;
+	   font-family: arial, sans-serif;
+		font-weight: bold;
+		letter-spacing: normal;
+		text-transform: uppercase;
+		text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.6) !important;
+}
+
+.plan-item-button a:hover {
+       background-color: #cb1d1d;
+}
+
+
+#fullwidth-wrapper ul, ol {
+        font-size: 16px;
+        margin-left: 0;
+}
+
+.icon-file::before, .navigation-class li.icon-umbrella > a > span::before,
+.icon-umbrella::before, .navigation-class li.icon-umbrella > a > span::before,
+.icon-paper-clip::before, .navigation-class li.icon-paper-clip > a > span::before,
+.icon-envelope::before, .navigation-class li.icon-envelope > a > span::before,
+.icon-group::before, .navigation-class li.icon-envelope > a > span::before,
+.icon-user::before, .navigation-class li.icon-envelope > a > span::before {
+	content: "f003";
+	color: #b31e18;
+	-webkit-text-shadow: -1px -1px 0px #222;
+	-moz-text-shadow: -1px -1px 0px #222;
+	text-shadow: -1px -1px 0px #222;
+}
+
+.blog-post:hover .blog-post-meta, .link-post:hover .blog-post-excerpt, .bypostauthor > .comment-body:hover, #wrapper, #nav ul, .tipsy-arrow-n {
+	border-bottom-color: #776256;
+}
+
+#call-to-action-smc {
+	text-align: right;
+	margin-top: -29px;
+	margin-bottom: -8px;	
+}
+
+@media (max-width: 990px) {
+#call-to-action-smc {
+	padding-right: 20px;
+	
+}
+	
+}
+
+@media (max-width: 765px) {
+#call-to-action-smc {
+	margin-bottom: -2px;
+		
+}	
+}
+
+@media (max-width: 540px) {
+#call-to-action-smc {
+	margin-bottom: -1px;
+	/*text-align: center;*/
+	font-size: 15px;	
+}
+	
+}

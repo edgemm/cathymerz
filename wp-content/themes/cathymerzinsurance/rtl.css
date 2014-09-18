@@ -1,0 +1,42 @@
+/*-----------------------------------------------------------------------------------
+
+	Theme Name:   Aegaeus
+	Theme URI:    http://preview.hb-themes.com/?theme=Aegaeus
+	Description:  Ultimate Responsive Business Theme.
+	Author:       HB-Themes
+	Author URI:   http://www.hb-themes.com
+	License:      GNU General Public License version 3.0
+	License URI:  http://www.gnu.org/licenses/gpl-3.0.html
+	Version:      1.2
+	
+	Developed and designed by Hristina Zlateska & Branko Conjic for HB-Themes.
+	All files, unless otherwise stated, are released under the GNU General Public License
+	version 3.0 (http://www.gnu.org/licenses/gpl-3.0.html)
+	
+	This is the CSS File for Right-to-Left websites.
+	Enter any custom modifications after the last line.
+
+-----------------------------------------------------------------------------------*/
+
+@import url(css/style.css) screen;
+
+#slider-section, #main-navigation-wrapper, #footer, .separator, #page-title, #fullwidth-wrapper .breadcrumb-wrapper, .fullwidth-services, .break-section, #sidebar-page-wrapper {
+	margin-left:auto !important;
+	margin-right: -30px !important;
+}
+
+ul.prestyled li, .widget_categories ul li, .widget_meta ul li, .widget_recent_entries ul li, .widget_pages ul li, .widget_archives ul li, .widget_nav_menu ul li, .widget_recent_comments ul li {
+	background-image:none !important;
+}
+
+#search-404 #submit-search {
+	right:auto;
+	left:0px !important;
+}
+#nav li { float:right !important; }
+
+#logo-wrap { float:right !important; }
+#social-wrap { float:left !important; }
+#logo {margin:0 !important;}
+
+/* Enter custom CSS code bellow  --------------------------------------------------*/

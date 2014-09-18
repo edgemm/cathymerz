@@ -1,0 +1,2560 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aegaeus Translate 1.2\n"
+"POT-Creation-Date: 2013-01-18 00:01+0100\n"
+"PO-Revision-Date: 2013-01-18 00:01+0100\n"
+"Last-Translator: \n"
+"Language-Team: HB-Themes <support@hb-themes.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_;__;_e\n"
+"X-Poedit-Basepath: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP\n"
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/404.php:24
+msgid "Search the website"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/archive.php:50
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/search.php:33
+msgid "No Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:21
+msgid "There are no comments so far"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:21
+msgid "There is 1 comment so far"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:21
+#, php-format
+msgid "There are % comments so far"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:46
+msgid "Leave a Comment"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:46
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:62
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:62
+msgid "Log out of this account"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:67
+msgid "Name"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:67
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:71
+msgid "*"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:71
+msgid "Email"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:75
+msgid "Website"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:83
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/contact-form.php:8
+msgid "Don't worry. We never use your email for spam."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:87
+msgid "Submit Comment"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:115
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:553
+msgid "Author"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/comments.php:126
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/footer.php:29
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-widget-areas.php:35
+msgid "Default Sidebar"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions.php:93
+msgid "Main Menu"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions.php:94
+msgid "Footer Menu"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions.php:232
+msgid "Insert into Post"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions.php:232
+msgid "Insert Image"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:26
+msgid "Latest 30 Posts"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:43
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:105
+msgid "Archives by Month"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:48
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:110
+msgid "Archives by Year"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:55
+msgid "Browse by Format"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:57
+msgid "Aside Posts"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:58
+msgid "Link Posts"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:59
+msgid "Video Posts"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:60
+msgid "Gallery Posts"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:63
+msgid "Browse by Categories"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:79
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:92
+msgid "Tags"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-archive.php:94
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:26
+msgid "Pages"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-contact.php:23
+msgid "none"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-redirect.php:38
+msgid "You will be redirected to "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-redirect.php:40
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-sidebar.php:211
+msgid " in "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-redirect.php:42
+msgid " seconds. "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:48
+msgid "Blog Categories"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:64
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:37
+msgid "Portfolio Categories"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:86
+msgid "Feeds"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:88
+msgid "Main RSS"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-sitemap.php:89
+msgid "Comments Feed"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-team.php:33
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-team.php:35
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/single.php:9
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-team.php:33
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-team.php:35
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:340
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:357
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:9
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-shortcodes.php:1200
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-shortcodes.php:1215
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:72
+msgid "staff"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-testimonials.php:28
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/single.php:10
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:548
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:45
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-shortcodes.php:1476
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-shortcodes.php:1485
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-testimonial.php:60
+msgid "testimonials"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/page-tour.php:20
+msgid "Right Tour"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/single-blog.php:20
+msgid "Tagged: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/single-blog.php:23
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-grid.php:224
+msgid "View comments."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/single-blog.php:44
+msgid "About the author"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/single.php:8
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/flexslider.php:30
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:117
+msgid "flexslider"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/single.php:19
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/breadcrumbs.php:65
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/header-separator.php:30
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-featured-image-slider.php:55
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/portfolio-related-posts.php:29
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/portfolio-related-posts.php:31
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:199
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:271
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:81
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-portfolio.php:65
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-portfolio.php:67
+msgid "portfolio"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/classes/class.options_machine.php:577
+msgid "Last Backup : "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/classes/class.options_machine.php:647
+msgid "Upload"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/front-end/options.php:27
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/front-end/options.php:36
+msgid "Expand"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/front-end/options.php:42
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/front-end/options.php:66
+msgid "Save All Changes"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/front-end/options.php:67
+msgid "Options Reset"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:130
+msgid "Dashboard"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:133
+msgid "Dashboard Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:136
+msgid "Hey there <strong>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:136
+msgid ""
+".</strong><br/><br/>Welcome to <strong>Aegaeus Dashboard.</strong><br/><br/"
+">* Aegaeus Theme version <strong>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:136
+msgid "</strong> *<br/>* WordPress version <strong>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:136
+msgid ""
+"</strong> *<br/><br/>This is your theme dashboard. You can do some quick "
+"actions here, like setting your front page, menus or widgets, reading the "
+"documentation or contacting the authors.<br/><br/>Use <strong>Options Reset</"
+"strong> button to <strong>restore</strong> all options to default and "
+"<strong>Save All Changes</strong> to <strong>save</strong> the options that "
+"you have entered in each section<br/><br/><strong>TIP :</strong> Watch out "
+"for blue notifications like this one, at the top of the options pages, it "
+"can really help you understanding the settings and guiding you through the "
+"documentation sections."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:140
+msgid "Quick Actions "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:141
+msgid "Set Front Page"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:148
+msgid "Create / Edit Menus"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:154
+msgid "Sidebars & Widgets"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:160
+msgid "Documentation"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:166
+msgid "Contact the authors"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:172
+msgid "Open a support ticket"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:178
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:184
+msgid "General Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:187
+msgid "General Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:190
+msgid ""
+"This is the <strong>General Settings</strong> section.<br/><br/>It controls "
+"some of the most basic configuration settings for your site: enabling "
+"responsiveness, the like plugin, settings for archive/search pages, contact "
+"form success/error lines etc. <br/><br/><strong>TIP :</strong> You can find "
+"more information about the General section in the <a href=\"http://"
+"documentation.hb-themes.com/aegaeus/#generalSettings\" target=\"_blank"
+"\">theme documentation file.</a>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:196
+msgid "Enable / Disable Responsiveness"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:197
+msgid "Check this box if you want the theme to be responsive."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:204
+msgid "Enable / Disable Like Plugin"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:205
+msgid "Check this box if you want to enable the like plugin."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:212
+msgid "Enable / Disable Search in Breadcrumbs"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:213
+msgid "Check this box if you want to enable the search box in breadcrumbs."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:220
+msgid "Enable / Disable Return To Top Button"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:221
+msgid "Check this box if you want to enable a return to top button."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:228
+msgid "All Projects Link"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:229
+msgid ""
+"Enter a portfolio page permalink here which will lead to your portfolio page "
+"from every single portfolio. (The page containing your portfolio items)"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:236
+msgid "Comment Form Respond Line"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:237
+msgid "Enter a line of text which goes above the contact form."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:244
+msgid "Contact Form Success Message"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:245
+msgid ""
+"Enter success message for your contact form. This message will be displayed "
+"if the form has been filled out correctly and the email has been sent."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:252
+msgid "Contact Form Error Message"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:253
+msgid ""
+"Enter error message for your contact form. This message will be displayed if "
+"the form hasn't been filled out properly."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:260
+msgid "Default Sidebar Position"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:261
+msgid ""
+"Enter a position for the sidebar in page such as archive, category, search "
+"etc."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:268
+msgid "Custom CSS"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:269
+msgid "Enter your custom CSS code"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:276
+msgid "Header Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:279
+msgid "Logo Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:282
+msgid ""
+"This is the <strong>Logo Settings</strong> section.<br/><br/>Upload your "
+"logo image and resize it if needed. If you leave logo image field empty, "
+"site title from <strong>General Settings</strong> will be used as logo text."
+"<br/><br/>Also, you can upload your favicon and apple icon image here.<br/"
+"><br/><strong>TIP :</strong> If you leave width or height inputs empty, the "
+"logo image will not be resized. Actual image size will be used. Find more "
+"about Logo Settings in our <a href=\"http://documentation.hb-themes.com/"
+"aegaeus/#logoSettings\" target=\"_blank\">theme documentation</a>."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:288
+msgid "Site Logo"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:289
+msgid ""
+"Upload a logo for your site. If you do not upload an image, site title will "
+"be used as logo."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:297
+msgid ""
+"Write your site logo in HTML.<br/><small><strong>Always use single instead "
+"of double quotes</strong></small>."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:305
+msgid ""
+"<strong>Logo Width</strong>.<br/>If you do not enter any value, logo image "
+"will not be resized."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:313
+msgid ""
+"<strong>Logo Height</strong>.<br/>If you do not enter any value, logo image "
+"will not be resized."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:320
+msgid "Enable / Disable Tagline"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:321
+msgid "Check this box if you want to enable Tagline bellow logo."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:328
+msgid "Favicon, Apple Icon and Android Icon"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:329
+msgid ""
+"<strong>Favicon : </strong> Upload a <a href=\"http://en.wikipedia.org/wiki/"
+"Favicon\" target=\"_blank\">Favicon</a> image."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:336
+msgid ""
+"<strong>Apple Icon : </strong> Upload an 144 x 144 <a href=\"http://"
+"mathiasbynens.be/notes/touch-icons\" target=\"_blank\">Apple Icon</a> image "
+"for high-resolution iPad 'Retina' displays."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:344
+msgid ""
+"<strong>Apple Icon : </strong> Upload an 114 x 114 <a href=\"http://"
+"mathiasbynens.be/notes/touch-icons\" target=\"_blank\">Apple Icon</a> image "
+"for high-resolution iPhone 'Retina' displays."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:352
+msgid ""
+"<strong>Apple Icon : </strong> Upload an 54 x 54 <a href=\"http://"
+"mathiasbynens.be/notes/touch-icons\" target=\"_blank\">Apple Icon</a> image "
+"for other displays."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:359
+msgid "Enable / Disable Site Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:360
+msgid "Check this box if you want to enable Site info box."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:367
+msgid "Site Info Content"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:368
+msgid "Enter your site info here."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:375
+msgid "SEO Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:378
+msgid "SEO Settings info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:381
+msgid ""
+"This is the <strong>SEO Settings</strong> section.<br/><br/>SEO is a "
+"technique which helps search engines find and rank your site higher than the "
+"millions of other sites in response to a search query.<br/><br/>In the "
+"fields bellow you specify metadata that will apply to <strong>those pages "
+"that do not have custom metadata</strong>. Don't forget that every page or "
+"post can have custom SEO metadata, but you have to check the option bellow. "
+"In case these fields are left empty, metatags will be set using WordPress."
+"<br/><br/><strong>TIP : </strong>You can find more about WordPress meta tags "
+"on <a href=\"http://codex.wordpress.org/Meta_Tags_in_WordPress\" target="
+"\"_blank\">Codex</a> and more about our SEO implementation in our <a href="
+"\"http://documentation.hb-themes.com/aegaeus/#seoSettings\" target=\"_blank"
+"\">theme documentation</a>."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:387
+msgid "Enable / Disable SEO"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:388
+msgid "Check this box if you want to enable your site custom SEO settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:395
+msgid "Default title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:396
+msgid "Enter your default title text."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:403
+msgid "Default Description"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:404
+msgid "Enter your default description text."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:411
+msgid "Default Keywords"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:412
+msgid ""
+"Enter your default keywords. <br/>Separate them using commas.<br/><br/"
+"><em>Example: HTML, CSS, XML, JavaScript</em>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:419
+msgid "Sidebar Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:423
+msgid "Sidebar Settings info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:426
+msgid ""
+"This is the <strong>Sidebar Settings</strong> section.<br/><br/>This section "
+"allows you to create unlimited number of sidebars simply by clicking the "
+"button <strong>Add New Sidebar</strong>.<br/><br/>You can open details on "
+"each sidebar by clicking the arrow at the top right corner of each sidebar "
+"title. Details allows you to rename each sidebar or to remove it. You can "
+"reorder sidebars by draging the titles.<br/><br/> Once you have created the "
+"desired number of sidebars, go to <strong>Appearance > Widgets</strong> to "
+"populate them with Widget items.<br/><br/><strong>TIP : </strong> Don't "
+"forget to click <strong>Save All Changes</strong> before you leave this "
+"section. More about sidebars in our <a href=\"http://documentation.hb-themes."
+"com/aegaeus/#sidebarSettings\" target=\"_blank\">theme documentation</a>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:432
+msgid "Sidebars"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:439
+msgid "Slider Manager"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:442
+msgid "Post Types Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:445
+msgid ""
+"This is the <strong>Slider Manager</strong> section.</br></br>Here you can "
+"create unlimited number of three different types of sliders.<br/><br/>You "
+"can open details on each slider by clicking the arrow at the top right "
+"corner of each slider title. Details allows you to change each sliders "
+"values, as well as removing the slider.<br/></br>Once you have created the "
+"sliders, you need to create <strong>Slides</strong>.</br></"
+"br><strong>Important : </strong>It's very important to read the "
+"documentation of this section in our <a href=\"http://documentation.hb-"
+"themes.com/aegaeus/#sliderManager\" target=\"_blank\">theme documentation</"
+"a>, you can also view video tutorials there. "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:450
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:182
+msgid "Flex Slider"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:457
+msgid "Footer Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:460
+msgid "Footer Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:463
+msgid ""
+"This is the <strong>Footer Settings</strong> section.<br/><br/>Here you can "
+"choose from a predefined list of 11 <strong>footer layouts</strong>. <br/"
+">Also you can enter a Footer Copyright line in this section. <br/><br/"
+"><strong>TIP :</strong> You can find more information about the Footer "
+"section in the <a href=\"http://documentation.hb-themes.com/aegaeus/"
+"#footerSettings\" target=\"_blank\">theme documentation file.</a>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:470
+msgid "Disable Footer Widgets"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:471
+msgid "Check this box if you want to disable footer widgets completely."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:478
+msgid "Disable Copyright Line"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:479
+msgid "Check this box if you want to disable copyright line."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:485
+msgid "Select Footer Layout"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:494
+msgid "Copyright Line"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:495
+msgid "Enter a line of text that goes on the footer bottom."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:501
+msgid "Social Links"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:505
+msgid "Social Links Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:508
+msgid ""
+"This is the <strong>Social Links</strong> section.<br/><br/>Here you can "
+"enter the links to your social networks which will be shown in page title "
+"box. Leave fields empty if you don't want to show that social network icon."
+"<br/><br/><strong>TIP :</strong> There's a RSS field at the bottom of this "
+"section. Have a look at <a href=\"http://codex.wordpress.org/WordPress_Feeds"
+"\" target=\"_blank\">Codex</a> for more info about RSS feeds. Find more "
+"about social links section in our <a href=\"http://documentation.hb-themes."
+"com/aegaeus/#socialLinks\" target=\"_blank\">theme documentation</a>. "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:514
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:362
+msgid "Facebook"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:515
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:523
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:531
+msgid "Link to your Facebook profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:522
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:428
+msgid "Twitter"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:530
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:476
+msgid "Vimeo"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:538
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:368
+msgid "Delicious"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:539
+msgid "Link to your Delicious profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:546
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:374
+msgid "DeviantArt"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:547
+msgid "Link to your DeviantArt profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:554
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:380
+msgid "Dribbble"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:555
+msgid "Link to your Dribbble profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:562
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:386
+msgid "Flickr"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:563
+msgid "Link to your Flickr profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:570
+msgid "Google Plus"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:571
+msgid "Link to your Google Plus profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:578
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:398
+msgid "Digg"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:579
+msgid "Link to your Digg profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:586
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:404
+msgid "Pinterest"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:587
+msgid "Link to your Pinterest profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:594
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:410
+msgid "Reddit"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:595
+msgid "Link to your Reddit profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:602
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:416
+msgid "LastFM"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:603
+msgid "Link to your LastFM profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:610
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:422
+msgid "StumbleUpon"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:611
+msgid "Link to your StumbleUpon profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:618
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:434
+msgid "RSS"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:619
+msgid "Link to your RSS profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:626
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:440
+msgid "Apple"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:627
+msgid "Link to your Apple profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:634
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:446
+msgid "Skype"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:635
+msgid "Link to your Skype profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:642
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:452
+msgid "YouTube"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:643
+msgid "Link to your YouTube profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:650
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:458
+msgid "Forrst"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:651
+msgid "Link to your Forrst profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:658
+msgid "GitHub"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:659
+msgid "Link to your GitHub profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:666
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:470
+msgid "LinkedIn"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:667
+msgid "Link to your LinkedIn profile."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:674
+msgid "Page 404"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:677
+msgid "404 Page Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:680
+msgid ""
+"This is the <strong>404 Page Settings</strong> section.<br/></br>This theme "
+"comes with customizable 404 page. Here you can specify some basic settings "
+"about your 404 page.<br/><br/><strong>TIP : </strong>You can view your 404 "
+"page <a href=\""
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:686
+msgid "404 Page Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:694
+msgid "404 Page Description"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:704
+msgid "Enable / Disable Search Form"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:705
+msgid ""
+"Check this box if you want to enable the search form including separator."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:712
+msgid "Search Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:713
+msgid "Enter a line which goes above the search form."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:720
+msgid "404 Separator Icon Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:721
+msgid "Text shown when hovering separator icon."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:728
+msgid "404 Separator Icon"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:729
+msgid ""
+"You can choose between two types of separator icons. Find more about "
+"separator icons <a href=\"#\">here</a>."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:735
+msgid "Redirect Page"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:738
+msgid "Redirect Page Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:741
+msgid ""
+"This is the <strong>Redirect Page Settings</strong> section.<br/><br/>This "
+"theme comes with an unique redirect page template. Here you can define some "
+"basic settings about redirect page template.<br/><br/>More about this "
+"section in our <a href=\"http://documentation.hb-themes.com/aegaeus/"
+"#redirectPage\" target=\"_blank\">theme documentation file.</a>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:747
+msgid "Timer value"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:748
+msgid "Enter timer value in seconds for redirect page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:755
+msgid "Redirect page title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:756
+msgid "Enter title for redirect page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:763
+msgid "Redirect page description"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:764
+msgid "Enter description for redirect page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:771
+msgid "Redirect page icon"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:772
+msgid "Enter icon for redirect page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:779
+msgid "Map Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:782
+msgid "Map Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:785
+msgid ""
+"This is the <strong>Map Settings</strong> section.<br/><br/>Choose whether "
+"you want a <strong>header dropdown</strong> containing a map on your "
+"website. Enter details for displaying the map, such as its embedded URL, "
+"check which elements to add to the map.<br/><br/>Add a box containing your "
+"<strong>basic contact</strong> info!<br/><br/><strong>TIP :</strong> You can "
+"find more information about the Map section in the <a href=\"http://"
+"documentation.hb-themes.com/aegaeus/#mapSettings\" target=\"_blank\">theme "
+"documentation file.</a>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:792
+msgid "Enable / Disable Gmap Header Dropdown"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:793
+msgid ""
+"Check this box if you want to enable the dropdown containing a Google Map"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:801
+msgid "URL"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:808
+msgid "Center Icon"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:809
+msgid "Upload a 32x32 px icon to place in the center of the map (a pin icon)."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:815
+msgid "Enable / Disable Pan Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:816
+msgid "Check this box if you want to enable the Pan Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:823
+msgid "Enable / Disable Zoom Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:824
+msgid "Check this box if you want to enable the Zoom Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:831
+msgid "Use Small Zoom"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:832
+msgid ""
+"Check this box if you want use a small zoom panel ( shows only + and - sign )"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:839
+msgid "Enable / Disable Map Type Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:840
+msgid "Check this box if you want to enable the Map Type Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:846
+msgid "Enable / Disable Street View Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:847
+msgid "Check this box if you want to enable the Street View Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:853
+msgid "Enable / Disable Overview Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:854
+msgid "Check this box if you want to enable the Overview Control"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:860
+msgid "Enable / Disable Map Contact Info Box"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:861
+msgid "Check this box if you want to enable a box with your info over the map."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:868
+msgid "Map Box Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:869
+msgid "Enter map contact info box title."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:875
+msgid "Map Box Phone"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:876
+msgid "Enter map contact info box phone."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:882
+msgid "Map Box Fax"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:883
+msgid "Enter map contact info box fax."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:889
+msgid "Map Box Mail"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:890
+msgid "Enter map contact info box mail."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:896
+msgid "Map Box Website"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:897
+msgid "Enter map contact info box website."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:903
+msgid "Map Box Address"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:904
+msgid "Enter map contact info box address."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:912
+msgid "Font Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:915
+msgid "Font Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:918
+msgid ""
+"This is the <strong>Font Settings</strong> section.<br/><br/>Here you can "
+"select theme fonts, enter custom font-face CSS code and change font color."
+"<br/><br/>These are just small typography changes, for bigger changes we "
+"suggest <a href=\"http://adrian3.com/projects/wordpress-plugins/wordpress-"
+"google-fonts-plugin/\" target=\"_blank\">Google Web Fonts Plugin </a> for "
+"WordPress.<br/><br/><strong> TIP : </strong>Find about font section and "
+"embedding Google Web Fonts in our <a href=\"http://documentation.hb-themes."
+"com/aegaeus/#fontSettings\" target=\"_blank\">theme documentation file.</a>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:923
+msgid "Enable / Disable Custom Typography"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:924
+msgid "Check this box to enable custom typography."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:930
+msgid "Content Font"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:931
+msgid "Content main font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:937
+msgid "Navigation Font"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:938
+msgid "Navigation font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:944
+msgid "Widget Areas Font"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:945
+msgid "Widget Areas font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:951
+msgid "H1 Heading"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:952
+msgid "H1 font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:958
+msgid "H2 Heading"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:959
+msgid "H2 font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:965
+msgid "H3 Heading"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:966
+msgid "H3 font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:972
+msgid "H4 Heading"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:973
+msgid "H4 font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:979
+msgid "H5 Heading"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:980
+msgid "H5 font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:986
+msgid "H6 Heading"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:987
+msgid "H6 font settings."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:993
+msgid "Custom Font Import"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:994
+msgid "Import custom fonts here."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1000
+msgid "Style Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1003
+msgid "Theme Color"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1004
+msgid "Theme Color Focus is a color in hex format used for many elements."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1010
+msgid "Default Background Texture"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1019
+msgid "Default Background Image"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1026
+msgid "Backup Options"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1030
+msgid "Backup Settings Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1033
+msgid ""
+"This is the <strong>Backup Options</strong> section.<br/><br/>Here you can "
+"backup or restore your theme options.<br/><br/>Click <strong>Backup Options</"
+"strong> to backup your current theme options values.<br/>Click "
+"<strong>Restore Options</strong> to restore theme options from your latest "
+"backup."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/admin/functions/functions.options.php:1038
+msgid "Backup Theme Options Values"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-grid.php:162
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-grid.php:168
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-grid.php:172
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-sidebar.php:90
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/header-separator.php:26
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/header-separator.php:31
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-featured-image-slider.php:21
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-featured-image-slider.php:32
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-featured-image-slider.php:38
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-featured-image-slider.php:45
+msgid "None"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-sidebar.php:107
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-sidebar.php:135
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-sidebar.php:169
+msgid "Read more<span class=\"icon-chevron-right\"></span>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/blog-sidebar.php:207
+msgid "Posted by "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/breadcrumbs.php:117
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/breadcrumbs.php:122
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:84
+msgid "Portfolio"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/breadcrumbs.php:145
+msgid " Page "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/breadcrumbs.php:154
+msgid "Search and hit enter..."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/header-dropdown.php:108
+msgid "Phone: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/header-dropdown.php:110
+msgid "Fax: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/header-dropdown.php:112
+msgid "Mail: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/header-dropdown.php:114
+msgid "Website: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/header-dropdown.php:116
+msgid "Address: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:15
+msgid "Search Complete"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:16
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:49
+msgid "There are "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:16
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:49
+msgid " results found"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:20
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:22
+msgid "Archive for "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:24
+msgid "Posts Tagged &quot;"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:24
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:26
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:32
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:34
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:36
+msgid "&quot"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:26
+msgid "Category &quot;"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:29
+msgid "Posts by "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:32
+msgid "Portfolio Category &quot;"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:34
+msgid "Portfolio Skill &quot;"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/page-title.php:36
+msgid "Staff Department &quot;"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/portfolio-details.php:22
+msgid "Date:"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/portfolio-details.php:28
+msgid "Client:"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/portfolio-details.php:36
+msgid "Skills Used: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/portfolio-details.php:47
+msgid "Categories: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/portfolio-details.php:57
+msgid "Link: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/functions/portfolio-details.php:63
+msgid "Likes: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/contact-form.php:4
+msgid "* Name"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/contact-form.php:5
+msgid "* Email"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/contact-form.php:6
+msgid "* Subject"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/contact-form.php:10
+msgid "Submit Message"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:46
+msgid "Template Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:52
+msgid "Exclude From Blog"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:56
+msgid ""
+"Enter a list of comma separated categories to exclude from the blog page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:59
+msgid "Map Link"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:62
+msgid "Enter embedded google map link."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:65
+msgid "Portfolio Columns"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:70
+msgid "Select how many columns to show on portfolio page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:73
+msgid "Portfolio with Filter Page Description"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:77
+msgid ""
+"A line of text which describes a portfolio page. The line is located on the "
+"oposite side of the portfolio filter."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:80
+msgid "Portfolio with Filter Separator Icon"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:84
+msgid ""
+"Enter an icon to display on separator, when using Portfolio with Filter "
+"template."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:87
+msgid "Specify Portfolio Category"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:91
+msgid ""
+"Specify a portfolio category slug here. Portfolio items in these categories "
+"will be shown on the page.  <small><em>*Separate slugs with commas.</em></"
+"small> "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:94
+msgid "Tour Position"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:100
+msgid "Select a position for your tour. Choose between left and right."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:103
+msgid "Column Count"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:109
+msgid "Select number of column on your page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:112
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:59
+msgid "Staff Departments"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:115
+msgid ""
+"Specify which member sill display by entering the staff departments.<br/> "
+"<small>Note: Use deparment slugs, and separate them by commas.</small>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:118
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:230
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:607
+msgid "Background Image"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:121
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:233
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:610
+msgid "Attach background image."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:124
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:236
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:613
+msgid "Background Texture"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:127
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:239
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:616
+msgid "Add background texture."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:130
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:248
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:619
+msgid "Enable Page Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:133
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:251
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:622
+msgid "Check this box if you want to enable a custom Page Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:136
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:254
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:625
+msgid "Custom Page Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:139
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:257
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:628
+msgid "Enter custom page title."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:142
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:260
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:631
+msgid "Custom Page Description"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:145
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:263
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:634
+msgid "Enter custom page description."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:148
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:637
+msgid "Page Sidebar Position"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:154
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:643
+msgid "Select a position for your sidebar. Choose between left and right."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:157
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:646
+msgid "Page Sidebar"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:161
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:650
+msgid "Choose a sidebar for your page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:164
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:242
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:653
+msgid "Breadcrumbs"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:167
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:245
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:656
+msgid "Check if you want to use breadcrumbs on this page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:170
+msgid "Redirect Page Link"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:173
+msgid "Enter the lin for your redirect page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:176
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/revslider/inc_php/revslider_widget.class.php:9
+msgid "Revolution Slider"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:179
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:668
+msgid "Enter Revolution slider alias here."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:186
+msgid "Choose a Flex slider from the dropdown list."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:198
+msgid "Custom Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:205
+msgid "Embedded Video Link"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:208
+msgid ""
+"Enter embedded link to a video which will be used instead of the featured "
+"image."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:211
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:590
+msgid "Select Slider"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:215
+msgid "Attach a Flex slider to single portfolio page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:218
+msgid "Enable Related Posts"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:221
+msgid "Check this box if you want to enable related posts."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:224
+msgid "Item Description Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:227
+msgid "Enter item description title."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:270
+msgid "Project Details"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:276
+msgid "Enable portfolio details"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:279
+msgid "Check this box if you want add project details box."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:282
+msgid "Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:285
+msgid "Enter project details title."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:288
+msgid "Date"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:291
+msgid "Enter project date here."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:294
+msgid "Client"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:297
+msgid "Enter project client here."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:300
+msgid "Skills Used"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:303
+msgid ""
+"Check this box if you want add skills used on this project (this uses the "
+"portfolio item filters)."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:306
+msgid "Categories"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:309
+msgid ""
+"Check this box if you want add categories of this project (this uses the "
+"portfolio item categories)."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:312
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:577
+msgid "Link"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:315
+msgid "Enter link to your project."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:318
+msgid "Likes"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:322
+msgid "Check this box if you want add how many likes your project has."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:325
+msgid "Other Projects"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:329
+msgid "Check this box if you want add link to previous and next project."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:339
+msgid "Extra Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:346
+msgid "Staff Member Position"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:349
+msgid "Position of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:356
+msgid "Social settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:365
+msgid "Link to Facebook profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:371
+msgid "Link to Delicious profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:377
+msgid "Link to DeviantArt profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:383
+msgid "Link to Dribbble profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:389
+msgid "Link to Flickr profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:392
+msgid "GooglePlus"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:395
+msgid "Link to GooglePlus profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:401
+msgid "Link to Digg profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:407
+msgid "Link to Pinterest profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:413
+msgid "Link to Reddit profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:419
+msgid "Link to LastFM profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:425
+msgid "Link to StumbleUpon profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:431
+msgid "Link to Twitter profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:437
+msgid "Link to RSS profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:443
+msgid "Link to Apple profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:449
+msgid "Link to Skype profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:455
+msgid "Link to YouTube profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:461
+msgid "Link to Forrst profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:464
+msgid "Github"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:467
+msgid "Link to Github profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:473
+msgid "Link to LinkedIn profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:479
+msgid "Link to Vimeo profile of your staff member."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:488
+msgid "Attach to Slider"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:494
+msgid "Instructions"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:497
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:504
+msgid ""
+"Add this slide to a slider from the list above. Note that you need to create "
+"at least one slider in our <strong>Slider Manager</strong> in <a href='"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:500
+msgid "Attach this slide to a slider from the list"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:511
+msgid "Slide Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:517
+msgid "Slide Image"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:520
+msgid "Attach image to this slide."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:523
+msgid "Slide Video"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:526
+msgid "Enter embedded link to a video."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:529
+msgid "Caption Text"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:532
+msgid "Add a caption to this slide"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:535
+msgid "Caption Link"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:538
+msgid "Add a link to your caption. (Optional)"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:547
+msgid "Testimonial Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:556
+msgid "Enter Testimonial's Author"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:559
+msgid "Author info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:562
+msgid "Enter Testimonial's Author Info"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:570
+msgid "Post Format Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:580
+msgid "Link for the <strong>link</strong> post format."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:584
+msgid "Embedded Video URL"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:587
+msgid "Enter embedded video link for the <strong>video</strong> post format."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:594
+msgid "Attach a Flex slider to <strong>gallery</strong> post format."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:601
+msgid "Single Post Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:659
+msgid "Enable About Author"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:662
+msgid "Check if you want to add about author on this page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:665
+msgid "Page Slider"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:676
+msgid "Custom SEO Settings"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:683
+msgid "Use Custom SEO"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:686
+msgid ""
+"Check this box if you want to use custom SEO setting bellow. Otherwise "
+"default settings will be used.<br/><strong>SEO checkbox in theme options "
+"needs to be checked.</strong>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:689
+msgid "SEO Title"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:692
+msgid "Enter custom page SEO title for this page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:695
+msgid "SEO Description"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:698
+msgid "Enter custom page SEO description for this page."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:701
+msgid "SEO Keywords"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-metabox-usage.php:704
+msgid ""
+"Enter custom page SEO keywords for this page. <small><em>&nbsp;&nbsp;"
+"*Separate keywords with commas.</em></small>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:12
+msgid "Staff"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:13
+msgid "All Staff Members"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:14
+msgid "Staff Member"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:15
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:16
+msgid "Add New Staff Member"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:17
+msgid "Edit Staff Member"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:18
+msgid "New Staff Member"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:19
+msgid "View Staff Member"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:20
+msgid "Search Fro Staff Member"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:21
+msgid "No Staff Members found"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:22
+msgid "No Staff Members found in Trash"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:48
+msgid "Testimonials"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:49
+msgid "All Testimonials"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:50
+msgid "Testimonial"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:51
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:52
+msgid "Add New Testimonial"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:53
+msgid "Edit Testimonial"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:54
+msgid "New Testimonial"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:55
+msgid "View Testimonial"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:56
+msgid "Search For Testimonials"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:57
+msgid "No Testimonials found"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:58
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:85
+msgid "All Portfolio Items"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:86
+msgid "Portfolio Item"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:87
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:88
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:89
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:90
+msgid "New Portfolio Item"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:91
+msgid "View Portfolio Item"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:92
+msgid "Search For Portfolio Item"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:93
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:94
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:120
+msgid "Flex Slides"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:121
+msgid "All Flex Slides"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:122
+msgid "Flex Slide"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:123
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:124
+msgid "Add New Flex Slide"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:125
+msgid "Edit Flex Slide"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:126
+msgid "New Flex Slide"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:127
+msgid "View Flex Slide"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:128
+msgid "Search For Flex Slides"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:129
+msgid "No Flex Slides found"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-post-types.php:130
+msgid "No Flex Slides found in Trash"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-shortcodes.php:197
+msgid "Scroll to top"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-shortcodes.php:676
+msgid "Email address"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-shortcodes.php:678
+msgid "Subscribe"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:15
+msgid "Portfolio Filters"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:16
+msgid "Portfolio Filter"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:17
+msgid "Search Portfolio Filters"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:18
+msgid "All Portfolio Filters"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:19
+msgid "Parent Portfolio Filter"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:20
+msgid "Parent Portfolio Filter:"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:21
+msgid "Edit Portfolio Filter"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:22
+msgid "Update Portfolio Filter"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:23
+msgid "Add New Portfolio Filter"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:24
+msgid "New Portfolio Filter Name"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:25
+msgid "Choose from the most used portfolio filters"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:32
+msgid "portfoliofilters"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:38
+msgid "Portfolio Category"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:39
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:40
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:41
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:42
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:43
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:44
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:45
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:46
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:47
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:54
+msgid "portfoliocat"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:60
+msgid "Staff Department"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:61
+msgid "Search Staff Departments"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:62
+msgid "All Staff Departments"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:63
+msgid "Parent Staff Department"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:64
+msgid "Parent Staff Department:"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:65
+msgid "Edit Staff Department"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:66
+msgid "Update Staff Department"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:67
+msgid "Add New Staff Department"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:68
+msgid "New Staff Department Name"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:69
+msgid "Choose from the most used staff departments"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-taxonomies.php:76
+msgid "staffmember"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-widget-areas.php:13
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-widget-areas.php:36
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/theme-widget-areas.php:56
+msgid "This is an area for widgets."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/revslider/inc_php/revslider_widget.class.php:8
+msgid "Displays a revolution slider on the page"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/revslider/inc_php/revslider_widget.class.php:24
+msgid "No sliders found, Please create a slider"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:37
+msgid "A widget that displays your contact info."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:40
+msgid "Custom Contact Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:72
+msgid "Tel"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:73
+msgid "Fax"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:74
+msgid "Mail"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:75
+msgid "Web"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:76
+msgid "Add"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:131
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-infobox.php:114
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-portfolio.php:129
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-recent-posts.php:131
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-twitter.php:129
+msgid "Title:"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:137
+msgid "Contact Content: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:143
+msgid "Contact Phone Number: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:149
+msgid "Contact Fax: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:155
+msgid "Contact Mail: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-contact.php:161
+msgid "Contact Website: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-dribbble.php:35
+msgid "A widget that displays your dribbble posts."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-dribbble.php:38
+msgid "Custom Dribble Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-flickr.php:35
+msgid "A widget that displays your flickr posts."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-flickr.php:38
+msgid "Custom Flickr Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-infobox.php:35
+msgid "A widget that displays an infobox."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-infobox.php:38
+msgid "Custom Infobox Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-infobox.php:120
+msgid "Infobox Content: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-infobox.php:126
+msgid "Infobox Color: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-infobox.php:138
+msgid "Is Closable: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-instagram.php:35
+msgid "A widget that displays your instagram posts."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-instagram.php:38
+msgid "Custom Instagram Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-pinterest.php:35
+msgid "A widget that displays your pinterest posts."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-pinterest.php:38
+msgid "Custom Pinterest Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-portfolio.php:35
+msgid "A widget that displays your portfolio posts."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-portfolio.php:38
+msgid "Custom Portfolio Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-portfolio.php:135
+msgid "From Category ( use slugs and separate them with commas ): "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-portfolio.php:141
+msgid "Portfolio Item Number: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-recent-posts.php:35
+msgid "A widget that displays your latest posts."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-recent-posts.php:38
+msgid "Custom Recent Posts Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-recent-posts.php:137
+msgid "Latest Post Count: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-recent-posts.php:143
+msgid ""
+"Latest Post From Category: <br/><small><strong>*Note: Use category slug</"
+"strong></small>"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-testimonial.php:37
+msgid "A widget that displays your a testimonial."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-testimonial.php:40
+msgid "Custom Testimonial Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-testimonial.php:132
+msgid "Widget Title:"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-twitter.php:37
+msgid "A widget that displays your twitter posts."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-twitter.php:40
+msgid "Custom Twitter Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-twitter.php:135
+msgid "Twitter Username: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-twitter.php:141
+msgid "Twitter Item Number: "
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-video.php:35
+msgid "A widget that shows a video"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/includes/widgets/widget-video.php:38
+msgid "Custom Video Widget"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/mce/hbthemes-shortcodes-iframe.php:31
+msgid "Shortcode Generator"
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/mce/hbthemes-shortcodes-iframe.php:57
+msgid ""
+"Select a shortcode from the list above and the options will appear here."
+msgstr ""
+
+#: /Users/brankoconjic/Desktop/Aegaeus_1.2/AegaeusWP/mce/hbthemes-shortcodes-iframe.php:71
+msgid "Select a Shortcode"
+msgstr ""

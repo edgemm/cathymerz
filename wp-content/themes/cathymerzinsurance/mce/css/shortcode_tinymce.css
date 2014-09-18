@@ -1,0 +1,56 @@
+.clearfix:after {content: ".";display: block;height: 0;clear: both;visibility: hidden;font-size: 0;}
+* html .clearfix{ zoom: 1; } /* IE6 */
+*:first-child+html .clearfix { zoom: 1; } /* IE7 */
+
+#hbthemes-shortcodes-popup{ text-shadow: 1px 1px 1px #f9f9f9; }
+
+#shortcode-selector-title{ margin-top: 20px; }
+#select-shortcode{ margin-bottom: 30px; border: none; border-bottom: 1px solid #eee; }
+#select-shortcode-inner{ padding: 20px 20px 40px 20px; }
+#select-shortcode select{ margin-left: 125px; float: none; width: 350px; font-size: 13px; padding: 5px; }
+
+
+#shortcode-editor { background-color: #f9f9f9; position: relative; }
+#shortcode-editor-inner{ padding: 20px 20px 0 20px;  }
+
+.padding-bottom{ padding-bottom: 20px; }
+
+#shortcode-editor h2{ margin-top: 0px; font-family: Arial, sans-serif; }
+
+#shortcode-editor label { display: block; float: left; margin: 0 8px 0 0; width: 160px; }
+#shortcode-editor select,
+#shortcode-editor input,
+#shortcode-editor textarea { display: block; float: right; width: 340px; padding: 5px; }
+#shortcode-editor textarea {  height: 80px; }
+#shortcode-editor input:focus,
+#shortcode-editor textarea:focus {background: #fff; border: 1px solid #bdbdbd !important;color: #444;-webkit-box-shadow: inset 1px 1px 4px rgba(0,0,0,0.1);-moz-box-shadow: inset 1px 1px 4px rgba(0,0,0,0.1); box-shadow: inset 1px 1px 4px rgba(0,0,0,0.1); }
+#shortcode-editor select { width: 112px; }
+#shortcode-editor #insert{
+	position: absolute; 
+	bottom: -40px; 
+	right: 0px;
+	text-align: center;
+	text-decoration: none;
+	color:#666;
+	-webkit-transition: all .2s linear;
+	-moz-transition: background .2s linear;
+	-o-transition: all .2s linear;
+	-ms-transition: all .2s linear;
+	transition: all .2s linear;
+	border: 1px solid #ccc; 
+}
+
+#shortcode-editor #insert:hover {
+	border: 1px solid #aaa;
+	color: #333;
+}
+
+
+#shortcode-editor .form-section{ margin-bottom: 20px; }
+
+
+#hbthemes-shortcodes-popup h2{ margin-bottom: 20px; font-size: 14px; font-weight: bold; color: #656565;}
+#select-shortcode-wrap{ margin-bottom: 20px; }
+.clear{ clear: both; }
+
+hr{ outline: none; border: 0; border-top: 1px solid #ddd; border-bottom: 1px solid #fff; margin: 30px auto; height: 2px;}

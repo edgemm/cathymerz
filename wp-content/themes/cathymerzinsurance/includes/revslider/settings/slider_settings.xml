@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<fields>
+			<fieldset name="general" label="General Settings">
+
+				<field name="delay"
+					   type="text" 
+					   default="9000" 
+					   label="Delay" 
+					   description="The time one slide stays on the screen in Milliseconds">
+				</field>
+				
+				
+				<field name="touchenabled" 
+					   type="radio" 
+					   default="on" 
+					   label="Touch Enabled" 
+					   description="Enable Swipe Function on touch devices">
+						  <option value="on" text="On"></option>
+						  <option value="off" text="Off"></option>
+				</field>
+
+				<field name="stop_on_hover" 
+					   type="radio" 
+					   default="on" 
+					   label="Stop On Hover" 
+					   description="Stop the Timer when hovering the slider">
+						  <option value="on" text="On"></option>
+						  <option value="off" text="Off"></option>
+				</field>
+				
+				<field name="fullwidth" 
+					   type="radio" 
+					   default="on" 
+					   label="Full Width Centering" 
+					   description="on/off It turns on the Horizontal Centering of Images in FullWidth mode. In Case the Image is bigger then the container width, it fits the image with its height in the container and centers horizontally.">
+						  <option value="on" text="On"></option>
+						  <option value="off" text="Off"></option>
+				</field>
+				 
+				<field name="php_resize"
+					   type="radio" 
+					   default="off" 
+					   label="PHP Image Resize / Crop" 
+					   description="Choose this option in order to resize / crop the slide images to the exact size with php.">
+						  <option value="on" text="On"></option>
+						  <option value="off" text="Off"></option>
+				</field>
+
+				<field name="load_googlefont" 
+					   type="radio" 
+					   default="false" 
+					   label="Load Google Font" 
+					   description="yes / no to load google font">
+						  <option value="true" text="Yes"></option>
+						  <option value="false" text="No"></option>
+				</field>
+				
+				<field name="google_font" 
+					   type="text"
+					   label="Google Font"
+					   class="text-sidebar-long"
+					   default="PT+Sans+Narrow:400,700"
+					   description="The google font family to load"></field>
+
+				<field type="control"
+					   ctype="enable"
+					   parent="load_googlefont"
+					   child="google_font"
+					   value="true"
+				   ></field>
+					   				
+			</fieldset>
+			
+			
+			
+			<fieldset name="appearance" label="Appearance">
+				
+				<field name="show_timerbar"
+					   type="radio" 
+					   default="true" 
+					   label="Show Timer Line" 
+					   description="Show the top running timer line">
+						  <option value="true" text="Show"></option>
+						  <option value="false" text="Hide"></option>
+				</field>
+
+				<field name="background_color"
+					   type="color"
+					   default="#E9E9E9" 
+					   label="Background color" 
+					   description="Slider wrapper div background color, for transparent slider, leave empty.">
+				</field>
+				
+			</fieldset>
+						
+			
+			<fieldset name="navigation" label="Navigation">
+
+				<field name="navigaion_type" 
+					   type="list" 
+					   default="none" 
+					   label="Navigation Type" 
+					   description="Display type of the navigation bar (Default:none">
+						  <option value="none" text="None"></option>
+						  <option value="bullet" text="Bullet"></option>
+						  <option value="thumb" text="Thumb"></option>
+				</field>
+
+				<field name="navigation_arrows" 
+					   type="list" 
+					   default="nexttobullets" 
+					   label="Navigation Arrows" 
+					   description="Display position of the Navigation Arrows (** By navigation Type Thumb arrows always centered or none visible)">
+						  <option value="nexttobullets" text="Next To Bullets"></option>
+						  <option value="verticalcentered" text="Vertical Centered"></option>
+						  <option value="none" text="None"></option>
+				</field>
+
+				<field name="navigation_style" 
+					   type="list" 
+					   default="round" 
+					   label="Navigation Style" 
+					   description="Look of the navigation bullets  ** If you choose navbar, we recommend to choose Navigation Arrows to nexttobullets">
+						  <option value="round" text="Round"></option>
+						  <option value="square" text="Square"></option>
+						  <option value="navbar" text="Navbar"></option>
+				</field>
+				
+				<field name="nav_offset_hor" 
+					   type="text"  
+					   label="Nav. Offset Horizontal"
+					   default="0"
+					   unit="px" 
+					   description="The Bar is centered but could be moved this pixel count left(e.g. -10) or right (Default: 0)  ** By resizing the banner, it will be always centered !!"></field>	
+
+				<field name="nav_offset_vert" 
+					   type="text"
+					   label="Nav. Offset Vertical"
+					   default="20"
+					   unit="px" 
+					   description="The Bar is bound to the bottom but could be moved this pixel count up (e. g. -20) or down (Default: 20)"></field>	
+				
+			</fieldset>
+			
+			<fieldset name="thumbs" label="Thumbnails">
+			
+				<field name="thumb_width" 
+					   type="text"  
+					   label="Thumb Width"
+					   default="100"
+					   unit="px"
+					   description="The basic Width of one Thumbnail (only if thumb is selected)"></field>
+
+				<field name="thumb_height" 
+					   type="text"  
+					   label="Thumb Height"
+					   default="50"
+					   unit="px"
+					   description="the basic Height of one Thumbnail (only if thumb is selected)"></field>
+					   
+				<field name="thumb_amount" 
+					   type="text"  
+					   label="Thumb Amount"
+					   default="5"
+					   unit="px"
+					   description="the amount of the Thumbs visible same time (only if thumb is selected)"></field>
+
+				<field name="hide_thumbs" 
+					   type="text"  
+					   label="Hide Thumbs After"
+					   default="200"
+					   unit="ms" 
+					   description="Time after that the Thumbs will be hidden(Default: 200)"></field>
+				
+			</fieldset>
+			
+			
+		</fields>
